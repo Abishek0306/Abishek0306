@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 💫 Hi 👋, I'm Abishek<br><br><br>- 🔭 **I’m currently working on:** EduSpark(Automated paper corrector)<br>- 🌱 **I’m currently learning:** Flutter<br>- 💬 **Ask me about:** Collaboration, Tech Support<br>- 📫 **How to reach me:** abi625587@gmail.com<br>- 😄 **Pronouns:** ABI<br>
+# 💫 Hi 👋, I'm Abishek<br><br><br>- 🔭 **I’m currently working on:** EduSpark(Automated paper corrector)<br>- 🌱 **I’m currently learning:** Higher Diploma in IT.<br>- 💬 **Ask me about:** Collaboration, Tech Support<br>- 📫 **How to reach me:** abi625587@gmail.com<br>- 😄 **Pronouns:** ABI<br>
 
 
 ## 🌐 Socials:
