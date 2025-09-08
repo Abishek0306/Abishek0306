@@ -12,6 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Abishek0306&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek0306&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abishek0306&bg_color=080808&color=ffffff&line=4de30d&point=f7f7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Abishek0306&icon=0&color=0)](https://visitcount.itsvg.in)
 
